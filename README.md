@@ -13,3 +13,9 @@ Capturas
 ---
 
 ![Mi captura](/img/im1.png)
+
+<div>
+    <center>
+        <img src="/img/im1.png" width="300">
+    </center>
+</div>
