@@ -9,7 +9,7 @@ Requisitos
 *Android Studio 2.2.2
 *Gradle 2.2.2
 
-Capturas
+Screenshot
 ---
 
 ![Mi captura](/img/im1.png)
